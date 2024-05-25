@@ -51,8 +51,7 @@ namespace DesafioFundamentos.Models
                 foreach (string placa in veiculos)
                 {
                     Console.WriteLine(placa);
-                }
-                
+                }   
             }
             else
             {
